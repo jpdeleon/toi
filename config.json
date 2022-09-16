@@ -1,5 +1,5 @@
 {
-  "input": "./TOI",
+  "input": "./gallery",
   "output": "./build_output",
   "title": "TOI",
   "sort-albums-by": "title",
