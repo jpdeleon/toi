@@ -1,4 +1,10 @@
 # Logs
+*.h5
+*.py
+*.txt
+*.sh
+*.batch
+
 logs
 *.log
 npm-debug.log*
