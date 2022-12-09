@@ -9,5 +9,6 @@
   "theme": "cards",
   "css": "./custom.css",
   "footer": "TESS quicklook plots for TOI",
-  "usage-stats": false
+  "usage-stats": false,
+  "album-page-size": 2
 }
